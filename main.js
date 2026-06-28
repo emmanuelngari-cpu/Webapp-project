@@ -1,0 +1,1 @@
+body{font-family:Arial;margin:20px}nav a{margin:5px}footer{margin-top:30px}
